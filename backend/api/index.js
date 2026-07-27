@@ -47,5 +47,5 @@ app.use((err, req, res, next) => {
   res.status(500).json({ error: 'Something went wrong!' });
 });
 
-// Export for Vercel
+// Export for Vercel - THIS IS CRITICAL
 module.exports = app;
