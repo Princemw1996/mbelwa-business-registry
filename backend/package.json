@@ -1,6 +1,6 @@
-{
+﻿{
   "name": "mbelwa-backend",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Mbelwa District Council Business Registration System API",
   "main": "api/index.js",
   "engines": {
