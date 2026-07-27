@@ -11,7 +11,12 @@
     "dev": "nodemon server.js",
     "build": "echo 'No build step required'"
   },
-  "keywords": ["mbelwa", "council", "business", "registration"],
+  "keywords": [
+    "mbelwa",
+    "council",
+    "business",
+    "registration"
+  ],
   "author": "Mbelwa District Council",
   "license": "ISC",
   "dependencies": {
